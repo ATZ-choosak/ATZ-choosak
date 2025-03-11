@@ -1,5 +1,24 @@
 # 🎮 GAME DEVELOPER & FULLSTACK WIZARD
 
+[V0_FILE]markdown:file="README.md" type="markdown" project="GitHub Profile README" isMerged="true"
+# 🎮 GAME DEVELOPER & FULLSTACK WIZARD
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&lines=LOADING+CREATIVE+CODE...;SPAWNING+DIGITAL+EXPERIENCES...;RENDERING+NEW+WORLDS...;COMPILING+IMAGINATION...;DEBUGGING+REALITY...;INITIALIZING+GAME+ENGINE...;LOADING+ASSETS...;GENERATING+PROCEDURAL+WORLD...)](https://git.io/typing-svg)
+
+<div align="center">
+  
+```ascii
+ _____________________________________________________________________
+|                                                                     |
+|  ██████╗  █████╗ ███╗   ███╗███████╗    ██████╗ ███████╗██╗   ██╗  |
+| ██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔══██╗██╔════╝██║   ██║  |
+| ██║  ███╗███████║██╔████╔██║█████╗      ██║  ██║█████╗  ██║   ██║  |
+| ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██║  ██║██╔══╝  ╚██╗ ██╔╝  |
+| ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ██████╔╝███████╗ ╚████╔╝   |
+|  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝    |
+|_____________________________________________________________________|
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&lines=LOADING+CREATIVE+CODE...;SPAWNING+DIGITAL+EXPERIENCES...;RENDERING+NEW+WORLDS...)](https://git.io/typing-svg)
 
 ## 👾 CHARACTER STATS
